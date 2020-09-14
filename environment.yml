@@ -205,7 +205,7 @@ dependencies:
   - tqdm=4.48.2=pyh9f0ad1d_0
   - traitlets=5.0.0=py37hc8dfbb8_0
   - tudat=2.8.26=h3dc1b2a_100
-  - tudat-resources=1.1.2=he1b5a44_1
+  - tudat-resources=1.1.2=he1b5a44_2
   - tudatpy=0.5.18=py37he1b5a44_103
   - twine=3.2.0=py37hc8dfbb8_0
   - uritemplate.py=3.0.2=py_1
